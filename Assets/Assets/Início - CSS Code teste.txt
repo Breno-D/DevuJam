@@ -1,0 +1,314 @@
+/* Rectangle */
+
+
+position: absolute;
+width: 360px;
+height: 260px;
+left: 0px;
+top: 0px;
+
+background: #C4C4C4;
+
+
+/* Ellipse */
+
+
+position: absolute;
+width: 120px;
+height: 120px;
+left: 11px;
+top: 70px;
+
+background: linear-gradient(180deg, #FFFFFF -337.92%, rgba(255, 255, 255, 0) -237.92%), #FFFFFF;
+
+
+/* Fulano */
+
+
+position: absolute;
+width: 164px;
+height: 53px;
+left: 158px;
+top: 89px;
+
+font-family: Oxygen;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 51px;
+
+color: #FFFAFA;
+
+
+
+/* Título 1 */
+
+
+position: absolute;
+width: 71px;
+height: 21px;
+left: 158px;
+top: 142px;
+
+font-family: Oxygen;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 23px;
+
+color: #FFFAFA;
+
+
+
+/* Título 2 */
+
+
+position: absolute;
+width: 71px;
+height: 21px;
+left: 240px;
+top: 142px;
+
+font-family: Oxygen;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 23px;
+
+color: #FFFAFA;
+
+
+
+/* LV.3 */
+
+
+position: absolute;
+width: 79px;
+height: 31px;
+left: 282px;
+top: 198px;
+
+font-family: Myanmar Khyay;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+
+color: #FFFAFA;
+
+
+
+/* Line */
+
+
+position: absolute;
+width: 247px;
+height: 0px;
+left: 29px;
+top: 226px;
+
+border: 10px solid #FFFFFF;
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 360px;
+height: 190px;
+left: 0px;
+top: 260px;
+
+background: #555454;
+
+
+/* logo sem fundo */
+
+
+position: absolute;
+width: 211.93px;
+height: 150px;
+left: -32px;
+top: 296px;
+
+background: url(logo sem fundo.png);
+
+
+/* Geral */
+
+
+position: absolute;
+width: 165px;
+height: 81px;
+left: 158px;
+top: 330px;
+
+font-family: Oxygen;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 81px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* Rectangle */
+
+
+position: absolute;
+width: 120px;
+height: 190px;
+left: 0px;
+top: 450px;
+
+background: #A9E977;
+
+
+/* Ícone Prog */
+
+
+position: absolute;
+width: 98px;
+height: 98px;
+left: 11px;
+top: 462px;
+
+background: url(Ícone Prog.png);
+
+
+/* Prog */
+
+
+position: absolute;
+width: 80px;
+height: 45px;
+left: 20px;
+top: 560px;
+
+font-family: Oxygen;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 45px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle */
+
+
+position: absolute;
+width: 120px;
+height: 190px;
+left: 240px;
+top: 450px;
+
+background: #FF767E;
+
+
+/* Ícone AV */
+
+
+position: absolute;
+width: 98px;
+height: 98px;
+left: 251px;
+top: 462px;
+
+background: url(Ícone AV.png);
+
+
+/* AV */
+
+
+position: absolute;
+width: 47px;
+height: 45px;
+left: 276px;
+top: 560px;
+
+font-family: Oxygen;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 45px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle */
+
+
+position: absolute;
+width: 120px;
+height: 190px;
+left: 120px;
+top: 450px;
+
+background: #FFF27B;
+
+
+/* Ícone GD */
+
+
+position: absolute;
+width: 98px;
+height: 98px;
+left: 131px;
+top: 462px;
+
+background: url(Ícone GD.png);
+
+
+/* GD */
+
+
+position: absolute;
+width: 53px;
+height: 45px;
+left: 154px;
+top: 560px;
+
+font-family: Oxygen;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 45px;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 2 */
+
+
+position: absolute;
+width: 49px;
+height: 49px;
+left: 297px;
+top: 15px;
+
+background: #E9E9E9;
+
+
+/* i */
+
+
+position: absolute;
+width: 22px;
+height: 49px;
+left: 315px;
+top: 15px;
+
+font-family: Lily Script One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 50px;
+
+color: #FFFFFF;
